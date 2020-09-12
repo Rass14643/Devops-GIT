@@ -1,13 +1,14 @@
-pseudo code
+pseudo code 1
 {
 Initial Function()
 {
-  //Sample Code
+  //Sample Code 1
 }
 
 feature1()
 {
-  //Sample Code
+  //Sample Code 1
+  print("my code")
 }
 
 
